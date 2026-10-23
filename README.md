@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hola, soy Débora Dominguez
 
-<!--
-**deboradmguez/deboradmguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrolladora web y vivo en Argentina. Armo sistemas de gestión y aplicaciones web utilizando principalmente TypeScript y Astro en el frontend, integrados con bases de datos relacionales y servicios en la nube como Supabase y Firebase.
 
-Here are some ideas to get you started:
+### Tecnologías y herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Lenguajes y frontend: TypeScript, Astro, JavaScript, HTML, CSS y Bootstrap.
+* Backend y bases de datos: PHP, MySQL, Supabase y Firebase.
+* Despliegue, datos y entorno: Vercel, Netlify, Excel, Git y Linux.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,astro,js,html,css,bootstrap,php,mysql,supabase,firebase,vercel,netlify,git,linux" alt="Stack tecnológico" />
+</p>
+### Contacto y enlaces
+
+Podés ver mis proyectos funcionando en mi [portafolio web](https://portafolio-deboradmguez.netlify.app/) o escribirme por [LinkedIn](https://www.linkedin.com/in/debora-dominguez) y [X](https://x.com/debora_dmguez).
