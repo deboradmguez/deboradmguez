@@ -10,6 +10,7 @@ Soy desarrolladora web y vivo en Argentina. Armo sistemas de gestión y aplicaci
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,astro,js,html,css,bootstrap,php,mysql,supabase,firebase,vercel,netlify,git,linux" alt="Stack tecnológico" />
 </p>
+
 ### Contacto y enlaces
 
 Podés ver mis proyectos funcionando en mi [portafolio web](https://portafolio-deboradmguez.netlify.app/) o escribirme por [LinkedIn](https://www.linkedin.com/in/debora-dominguez) y [X](https://x.com/debora_dmguez).
